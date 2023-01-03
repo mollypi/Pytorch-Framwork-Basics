@@ -17,6 +17,7 @@ This Repo provides you the complete knowledge about Deep learning Neural Network
            9. Generate Tensors with cpu 
            10. Generate Tensors with Gpu
            11. Reproducibility
+
            
 
 
@@ -25,6 +26,23 @@ This Repo provides you the complete knowledge about Deep learning Neural Network
 
 ## Screenshots
 ![App Screenshot](https://production-media.paperswithcode.com/method_collections/cnn.jpeg)
+## Autograd
+
+To built an Neural Networks we have both forword layer and backword layer 
+since in the back-propagation we are going to update the weights of each weight using chain 
+rule reaction and with derivaties concept 
+
+For Example : 
+
+- y = 3 * a ** 2 know if we apply derivative(y) w.r.t a for above equation we will get 
+
+- 6 * a =  we can update the value for weight using this gradient function.
+
+For Better Example You can follow the documentation in Pytorch.
+
+follow = https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html
+
+
 ## Support
 
 For support, email saikamal9797@gmail.com or join my telegram channel https://t.me/+45TxMt6tkfplYjJl.
@@ -57,3 +75,16 @@ and we can import Modules from the torch Library when we require
 
  - [Pytorch basics](https://pytorch.org/docs/stable/index.html)
  
+## Skils
+
+- Python
+- Numpy 
+- Pandas 
+- Matplotlib
+- Seaborn 
+- feature-engine
+- Sckit-learn 
+- Statistics 
+- Probability 
+## Datasets 
+
