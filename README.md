@@ -19,13 +19,25 @@ This Repo provides you the complete knowledge about Deep learning Neural Network
            11. Reproducibility
 
            
+This Repo will nake you to understand difference between scalar , vector and matrix and tensors and Use of tensors for developing Deep learning models:
+
+Entire coding part were done by taking the reference from PyTorch official documentation.If facing any issue with my code you can find it in the official documentation which mentioned below:
 
 
+1. [PyTorch Tensors](https://pytorch.org/tutorials/beginner/examples_tensor/polynomial_tensor.html#:~:text=A%20PyTorch%20Tensor%20is%20basically,used%20for%20arbitrary%20numeric%20computation.)
+
+2. [Math Solving Problems](https://pytorch.org/docs/stable/torch.html#math-operations)
+3. [Reshaping Problems](https://pytorch.org/docs/stable/generated/torch.reshape.html#torch-reshape)
+4. [Squeeze](https://pytorch.org/docs/stable/generated/torch.squeeze.html#torch-squeeze)
+5. [UnSqueeze](https://pytorch.org/docs/stable/generated/torch.unsqueeze.html#torch-unsqueeze)
+6. [Permute](https://pytorch.org/docs/stable/generated/torch.permute.html#torch-permute)
+7. [PyTorch to NumPy and NumPy to PyTorch](https://pythonguides.com/pytorch-tensor-to-numpy/)
+8. [Tensor's with GPU](https://www.projectpro.io/recipes/create-cpu-tensor-and-gpu-tensor-pytorch)
 
 
 
 ## Screenshots
-![App Screenshot](https://production-media.paperswithcode.com/method_collections/cnn.jpeg)
+![App Screenshot](https://miro.medium.com/v2/resize:fit:750/format:webp/1*VSQ0XEywxSgZBwW05GsZtw.png)
 ## Autograd
 
 To built an Neural Networks we have both forword layer and backword layer 
@@ -86,5 +98,7 @@ and we can import Modules from the torch Library when we require
 - Sckit-learn 
 - Statistics 
 - Probability 
-## Datasets 
+## 🔗 Follow:
 
+1. [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kamal-korlakunta-a81326163/)
+2. [Medium](https://medium.com/@korlakuntasaikamal10)
